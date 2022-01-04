@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#121212"
+    android:baselineAligned="false"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:baselineAligned="false"
+        android:orientation="horizontal">
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/twister_image"
+            android:layout_width="158dp"
+            android:layout_height="158dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/rounded_white_background"
+            android:src="@drawable/image_twister" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:orientation="vertical">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginTop="@dimen/_15dp"
+                >
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/imageView2"
+                    android:layout_width="64dp"
+                    android:layout_height="20dp"
+                    android:background="@drawable/rounded_white_background"
+                    android:src="@drawable/kfc_logo_2018_now" />
+
+                <androidx.appcompat.widget.AppCompatTextView
+                    android:id="@+id/heading_1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/_10dp"
+                    android:fontFamily="@font/roboto_bold"
+                    android:text="@string/kfc_mashtots"
+                    android:textColor="@color/white" />
+            </LinearLayout>
+
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/appCompatTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/twister"
+                android:textColor="@color/white" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginTop="@dimen/_80dp">
+                <androidx.appcompat.widget.AppCompatTextView
+                    android:id="@+id/price_number"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/roboto_bold"
+                    android:text="@string/_1150"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/_24sp" />
+
+                <androidx.appcompat.widget.AppCompatTextView
+                    android:id="@+id/price_valute"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="5dp"
+                    android:fontFamily="@font/roboto_bold"
+                    android:text="@string/amd"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/_16sp" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/twister_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:text="@string/twister_description"
+        android:textColor="@color/white" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/twister_type"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:text="@string/type"
+        android:textColor="@color/white" />
+
+    <RadioGroup
+        android:id="@+id/type_choice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <androidx.appcompat.widget.AppCompatRadioButton
+            android:id="@+id/type_spicy"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:fontFamily="@font/roboto_regular"
+
+            android:text="@string/type_spicy"
+            android:textColor="@color/white"
+            android:theme="@style/my_radio_button" />
+
+        <androidx.appcompat.widget.AppCompatRadioButton
+            android:id="@+id/type_original"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/roboto_regular"
+            android:text="@string/type_original"
+            android:textColor="@color/white"
+            android:theme="@style/my_radio_button" />
+    </RadioGroup>
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/twister_havelum"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:text="@string/havelum"
+        android:textColor="@color/white" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+        <androidx.appcompat.widget.AppCompatCheckBox
+            android:id="@+id/cheese1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:fontFamily="@font/roboto_regular"
+            android:text="@string/cheese_slice_1"
+            android:textColor="@color/white"
+            android:theme="@style/my_check_box" />
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/cheese_price1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/roboto_regular"
+            android:text="@string/price_cheese_1"
+            android:textColor="@color/white"
+            android:layout_marginStart="@dimen/_200dp"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <androidx.appcompat.widget.AppCompatCheckBox
+            android:id="@+id/cheese2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/roboto_regular"
+            android:text="@string/cheese_slice_2"
+            android:textColor="@color/white"
+            android:theme="@style/my_check_box" />
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/cheese_price2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/roboto_regular"
+            android:text="@string/price_cheese_2"
+            android:textColor="@color/white"
+            android:layout_marginStart="@dimen/_200dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <androidx.appcompat.widget.AppCompatCheckBox
+            android:id="@+id/cheese3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/roboto_regular"
+            android:text="@string/cheese_slice_3"
+            android:textColor="@color/white"
+            android:theme="@style/my_check_box" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/cheese_price3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/roboto_regular"
+            android:text="@string/price_cheese_3"
+            android:textColor="@color/white"
+            android:layout_marginStart="@dimen/_200dp"
+            />
+    </LinearLayout>
+
+
+    <androidx.appcompat.widget.AppCompatEditText
+        android:id="@+id/comment_box"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:background="#212121"
+        android:hint="@string/comment_order_placeholder"
+        android:padding="8dp"
+        android:gravity="top"
+        android:textColorHint="#a1a1a1" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/add_to_cart"
+        android:layout_width="wrap_content"
+        android:layout_height="32dp"
+        android:background="@drawable/rounded_red_background"
+        android:fontFamily="@font/roboto_bold"
+        android:paddingHorizontal="80dp"
+        android:text="@string/add_to_cart"
+        android:textColor="@color/white"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/_10dp"
+        />
+</LinearLayout>

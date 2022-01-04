@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/Samvel_Papyan_Android_Homeworks/app/src/main/res/drawable/hamburger_icon.xml" value="0.18958333333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Samvel_Papyan_Android_Homeworks/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.18958333333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Samvel_Papyan_Android_Homeworks/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Samvel_Papyan_Android_Homeworks/app/src/main/res/layout/activity_main_homework_2.xml" value="0.1734375" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Samvel_Papyan_Android_Homeworks/app/src/main/res/layout/activity_main_homework_3_constraint_layout.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Samvel_Papyan_Android_Homeworks/app/src/main/res/layout/activity_main_homework_3_linear_layout.xml" value="0.1734375" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Samvel_Papyan_Android_Homeworks/app/src/main/res/layout/activity_main_homework_4_relative_layout.xml" value="0.1734375" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Samvel_Papyan_Android_Homeworks/app/src/main/res/layout/activity_main_homework_5_constraint_layout.xml" value="0.1734375" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Samvel_Papyan_Android_Homeworks/app/src/main/res/layout/activity_main_homework_5_linear_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Samvel_Papyan_Android_Homeworks/app/src/main/res/layout/activity_main_homework_5_relative_layout.xml" value="0.18" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Samvel_Papyan_Android_Homeworks/app/src/main/res/layout/activity_main_homework_6_constraint_layout.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Samvel_Papyan_Android_Homeworks/app/src/main/res/layout/activity_main_homework_6_linear_layout.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Samvel_Papyan_Android_Homeworks/app/src/main/res/layout/activity_main_homework_6_relative_layout.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Samvel_Papyan_Android_Homeworks/app/src/main/res/layout/homework10_intents.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Samvel_Papyan_Android_Homeworks/app/src/main/res/layout/homework10_list.xml" value="0.1734375" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Samvel_Papyan_Android_Homeworks/app/src/main/res/layout/homework10_screen_2.xml" value="0.1734375" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Samvel_Papyan_Android_Homeworks/app/src/main/res/layout/homework8_activity_1.xml" value="0.1734375" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Samvel_Papyan_Android_Homeworks/app/src/main/res/layout/homework8_activity_2.xml" value="0.1734375" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Samvel_Papyan_Android_Homeworks/app/src/main/res/layout/homework8_activity_3.xml" value="0.1734375" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Samvel_Papyan_Android_Homeworks/app/src/main/res/layout/homework8_activity_4.xml" value="0.1734375" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Samvel_Papyan_Android_Homeworks/app/src/main/res/layout/homework8_activity_5.xml" value="0.18" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Samvel_Papyan_Android_Homeworks/app/src/main/res/layout/homework9_screen_1_1.xml" value="0.1734375" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Samvel_Papyan_Android_Homeworks/app/src/main/res/layout/homework9_screen_1_2.xml" value="0.1734375" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Samvel_Papyan_Android_Homeworks/app/src/main/res/layout/homework9_screen_2_1.xml" value="0.1734375" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Samvel_Papyan_Android_Homeworks/app/src/main/res/layout/homework_5_change_password_constraint_layout.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Samvel_Papyan_Android_Homeworks/app/src/main/res/layout/homework_5_change_password_linear_layout.xml" value="0.1734375" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Samvel_Papyan_Android_Homeworks/app/src/main/res/layout/homework_5_change_password_relative_layout.xml" value="0.1734375" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Samvel_Papyan_Android_Homeworks/app/src/main/res/layout/homework_6_gallery.xml" value="0.1734375" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Samvel_Papyan_Android_Homeworks/app/src/main/res/layout/homework_6_notification_constraint_layout.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Samvel_Papyan_Android_Homeworks/app/src/main/res/layout/homework_6_notification_linear_layout.xml" value="0.1734375" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Samvel_Papyan_Android_Homeworks/app/src/main/res/layout/homework_6_notification_relative_layout.xml" value="0.1734375" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Samvel_Papyan_Android_Homeworks/app/src/main/res/layout/homework_6_settings_constraint_layout.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Samvel_Papyan_Android_Homeworks/app/src/main/res/layout/homework_6_settings_linear_layout.xml" value="0.1734375" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Samvel_Papyan_Android_Homeworks/app/src/main/res/layout/homework_6_settings_relative_layout.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Samvel_Papyan_Android_Homeworks/app/src/main/res/layout/recycler_view_item.xml" value="0.1734375" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Samvel_Papyan_Android_Homeworks/app/src/main/res/menu/toolbar_menu.xml" value="0.1734375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

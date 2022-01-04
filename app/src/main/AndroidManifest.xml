@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.samvel_papyan_android_homeworks">
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/toolbarDifferentColor">
+        <activity
+            android:name=".homework9.ThirdActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".homework3.MainActivity"/>
+        <activity android:name=".homework4.MainActivity"/>
+        <activity android:name=".homework5.MainActivity"/>
+        <activity android:name=".homework5.SecondActivity"/>
+        <activity android:name=".homework6.MainActivity"/>
+        <activity android:name=".homework6.MatchActivity"/>
+        <activity android:name=".homework6.SettingsActivity"/>
+        <activity android:name=".homework6.GalleryActivity"/>
+        <activity android:name=".homework8.MainActivity"/>
+        <activity android:name=".homework8.SecondActivity"/>
+        <activity android:name=".homework8.ThirdActivity"/>
+        <activity android:name=".homework8.FourthActivity"/>
+        <activity android:name=".homework9.MainActivity"/>
+        <activity android:name=".homework9.SecondActivity"/>
+        <activity android:name=".homework2.MainActivity"/>
+    </application>
+</manifest>

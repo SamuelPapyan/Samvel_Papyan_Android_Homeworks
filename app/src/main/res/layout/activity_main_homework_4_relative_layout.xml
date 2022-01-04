@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingStart="@dimen/_35dp"
+    android:paddingEnd="@dimen/_35dp">
+
+    <TextView
+        android:id="@+id/textView1"
+        style="@style/textViewStyle1"
+        android:layout_width="@dimen/_340dp"
+        android:layout_height="@dimen/_60dp"
+        android:layout_marginTop="@dimen/_16dp"
+        android:text="@string/textView1" />
+    <TextView
+        android:id = "@+id/textView2"
+        style="@style/textViewStyle2"
+        android:layout_width="@dimen/_340dp"
+        android:layout_height="@dimen/_60dp"
+        android:layout_marginTop="@dimen/_16dp"
+        android:layout_below="@id/textView1"
+        android:text="@string/textView2"
+        />
+
+    <TextView
+        android:id="@+id/textView3"
+        style="@style/textViewStyle3"
+        android:layout_width="@dimen/_150dp"
+        android:layout_height="@dimen/_150dp"
+        android:layout_below="@id/textView2"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="@dimen/_10dp"
+        android:text="@string/textView3" />
+
+    <TextView
+        android:id="@+id/textView4"
+        style="@style/textViewStyle4"
+        android:layout_width="@dimen/_150dp"
+        android:layout_height="@dimen/_150dp"
+        android:layout_below="@id/textView2"
+        android:layout_marginTop="@dimen/_10dp"
+        android:layout_alignParentRight="true"
+        android:text="@string/textView4" />
+</RelativeLayout>

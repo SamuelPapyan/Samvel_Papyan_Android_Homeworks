@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">Samvel_Papyan_Android_Homeworks</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="welcome">Welcome to my portfolio page.</string>
+    <string name="hello_and_welcome">Hello and welcome to my Android Portfolio.</string>
+    <string name="textView2">Text View 2</string>
+    <string name="textView1">Text View 1</string>
+    <string name="textView3">Text View 3</string>
+    <string name="textView4">Text View 4</string>
+    <string name="description">Description</string>
+    <string name="description_content">Souphattra Hotel located next to the UNESCO World Heritage town in Luang Prabang, Souphattra Hotel radiates all the understated elegance and charm of a colonial-era mansion, luxuriously appointed with refined furnishings throughout. Guests will enjoy its tranquil location, excellent facilities and authentic Lao hospitality.</string>
+    <string name="phone_number">+856 21211222</string>
+    <string name="location">Luang Prabang, Laos</string>
+    <string name="save">Save</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="current_password">Current Password</string>
+    <string name="new_password">New Password</string>
+    <string name="twister_description">Tender pieces of chicken fillet with crispy spicy or original bread crumbs, juicy lettuce, slices of tomato, tender sauce, wrapped in a wheat loshik and fried in toast</string>
+    <string name="type">տեսակ</string>
+    <string name="type_spicy">spicy</string>
+    <string name="type_original">original</string>
+    <string name="havelum">հավելում</string>
+    <string name="cheese_slice_1">պանրի 1 շերտ</string>
+    <string name="cheese_slice_2">պանրի 2 շերտ</string>
+    <string name="cheese_slice_3">պանրի 3 շերտ</string>
+    <string name="price_cheese_1">+ 150 AMD</string>
+    <string name="price_cheese_2">+ 300 AMD</string>
+    <string name="price_cheese_3">+ 450 AMD</string>
+    <string name="comment_order_placeholder">Your comments to the order</string>
+    <string name="add_to_cart">ADD TO CART</string>
+    <string name="push_notifications">PUSH NOTIFICATIONS</string>
+    <string name="preferences">Preferences</string>
+    <string name="match_alerts">Match Alerts</string>
+    <string name="match_alerts_2">Get instant notifications for match events</string>
+    <string name="football">Football</string>
+    <string name="tennis">Tennis</string>
+    <string name="basketball">Basketball</string>
+    <string name="hockey">Hockey</string>
+    <string name="cricket">Cricket</string>
+    <string name="in_app_notifis">IN-APP NOTIFICATIONS</string>
+    <string name="fav_match">Favourite Match</string>
+    <string name="fav_league">Favourite League</string>
+    <string name="change_pass">Փոխել գաղտնաբառը</string>
+    <string name="pin_code">Սահմանել PIN կոդ մուտք գործելու համար</string>
+    <string name="close_blocking">Փակելիս բլոկավորել</string>
+    <string name="change_lang">Փոխել լեզուն</string>
+    <string name="_1150">1150</string>
+    <string name="amd">AMD</string>
+    <string name="kfc_mashtots">KFC Mashtots</string>
+    <string name="twister">Twister</string>
+    <string name="submit">Submit</string>
+    <string name="enter_your_name">Enter your name.</string>
+    <string name="value">value</string>
+    <string name="show_progress">Show Progress</string>
+    <string name="hide_progress">Hide Progress</string>
+    <string name="third_activity">Third Activity</string>
+    <string name="get_rating">Get Rating</string>
+    <string name="my_fourth_activity">My Fourth Activity</string>
+    <string name="learn_everything_about_spinner">Learn Everything About Spinner.</string>
+    <string name="choose_browser">Choose Browser</string>
+    <string name="share">Share</string>
+    <string name="call">Call</string>
+    <string name="enter_your_message">Enter your message.</string>
+    <string name="link_to">Open The Browser</string>
+    <string name="send">Send</string>
+    <string name="search_hint">Search by name</string>
+    <string name="heading">Heading</string>
+    <string name="dumbText">Some Text</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="request">REQUEST</string>
+    <string name="hamburger">Hamburger</string>
+    <string name="toolbar_title">Homework 10</string>
+    <string-array name="colors_array">
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Black</item>
+        <item >Grey</item>
+    </string-array>
+    <string-array name="cities">
+        <item>Yerevan</item>
+        <item>London</item>
+        <item>Paris</item>
+        <item>Rome</item>
+        <item>Tokyo</item>
+        <item>Berlin</item>
+        <item>Los Angeles</item>
+        <item>Moscow</item>
+    </string-array>
+</resources>
